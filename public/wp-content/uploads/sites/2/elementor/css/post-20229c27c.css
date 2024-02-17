@@ -1,0 +1,22 @@
+.elementor-20229
+    .elementor-element.elementor-element-56862d9
+    > .elementor-background-overlay {
+    opacity: 1;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-20229 .elementor-element.elementor-element-56862d9 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s,
+        box-shadow 0.3s;
+    padding: 120px 15px 50px 15px;
+    z-index: 0;
+}
+@media (max-width: 1024px) {
+    .elementor-20229 .elementor-element.elementor-element-56862d9 {
+        padding: 50px 0px 20px 0px;
+    }
+}
+@media (max-width: 767px) {
+    .elementor-20229 .elementor-element.elementor-element-56862d9 {
+        padding: 10px 0px 0px 0px;
+    }
+}

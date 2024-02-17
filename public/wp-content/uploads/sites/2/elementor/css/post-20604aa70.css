@@ -1,0 +1,27 @@
+.elementor-20604
+    .elementor-element.elementor-element-57f7b15
+    > .elementor-background-overlay {
+    opacity: 1;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-20604 .elementor-element.elementor-element-57f7b15 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s,
+        box-shadow 0.3s;
+    padding: 110px 15px 70px 15px;
+    z-index: 0;
+}
+@media (max-width: 1024px) and (min-width: 768px) {
+    .elementor-20604 .elementor-element.elementor-element-ca7adf5 {
+        width: 100%;
+    }
+}
+@media (max-width: 1024px) {
+    .elementor-20604 .elementor-element.elementor-element-57f7b15 {
+        padding: 50px 0px 50px 0px;
+    }
+}
+@media (max-width: 767px) {
+    .elementor-20604 .elementor-element.elementor-element-57f7b15 {
+        padding: 0px 0px 0px 0px;
+    }
+}
